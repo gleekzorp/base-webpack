@@ -1,0 +1,15 @@
+{
+  "name": "base-webpack",
+  "version": "1.0.0",
+  "description": "Simple webpack for creating a server to render html-css-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Floyd <gleek.dan@gmail.com> (https://df-react-portfolio.herokuapp.com/)",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
+}
